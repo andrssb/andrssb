@@ -1,4 +1,4 @@
-## Sobre mim 👋
+## Sobre mim
 Olá, meu nome é Andres Barbosa.
 
 Estou em transição de carreira para a tecnologia, com background em vendas — o
