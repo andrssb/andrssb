@@ -40,17 +40,6 @@ Estou em transição de carreira para a tecnologia, com background em vendas —
 
 **[Controle de Gastos](https://github.com/andrssb/controle-de-gastos)** — App de finanças pessoais com banco de dados e gráfico de gastos por categoria. `Python`, `FastAPI`, `SQLAlchemy`, `SQLite`.
 
-## GitHub
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=andrssb&style=for-the-badge&color=E8A317&label=VISITAS+NO+PERFIL" alt="Visitas no perfil" />
-  <a href="https://github.com/andrssb?tab=followers"><img src="https://img.shields.io/github/followers/andrssb?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=6FE9FF&labelColor=0A0E20" alt="Seguidores" /></a>
-</p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=andrssb&hide_border=true&background=0A0E20&stroke=24305C&ring=E8A317&fire=E8A317&currStreakLabel=6FE9FF&sideLabels=9AA6C4&currStreakNum=E7ECF6&sideNums=E7ECF6&dates=9AA6C4" alt="Sequencia de commits no GitHub" />
-</div>
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-barbosa-496088406)
