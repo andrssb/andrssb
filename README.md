@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E8A317&center=true&vCenter=true&width=620&lines=Dev+full-stack+Python;Ex-vendas+construindo+software;FastAPI+%C2%B7+SQLAlchemy+%C2%B7+pytest" alt="Dev full-stack Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E8A317&center=true&vCenter=true&width=620&lines=Dev+full-stack+Python;Ex-vendedor+construindo+software;FastAPI+%C2%B7+SQLAlchemy+%C2%B7+pytest" alt="Dev full-stack Python" />
 </p>
 
 ## Sobre mim
@@ -42,9 +42,13 @@ Estou em transição de carreira para a tecnologia, com background em vendas —
 
 ## GitHub
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andrssb&style=for-the-badge&color=E8A317&label=VISITAS+NO+PERFIL" alt="Visitas no perfil" />
+  <a href="https://github.com/andrssb?tab=followers"><img src="https://img.shields.io/github/followers/andrssb?style=for-the-badge&logo=github&logoColor=white&label=Seguidores&color=6FE9FF&labelColor=0A0E20" alt="Seguidores" /></a>
+</p>
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrssb&show_icons=true&hide_border=true&count_private=true&title_color=E8A317&icon_color=6FE9FF&text_color=9AA6C4&bg_color=0A0E20" alt="Estatisticas do GitHub de Andres" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrssb&layout=compact&hide_border=true&title_color=E8A317&text_color=9AA6C4&bg_color=0A0E20" alt="Linguagens mais usadas" />
+  <img src="https://streak-stats.demolab.com/?user=andrssb&hide_border=true&background=0A0E20&stroke=24305C&ring=E8A317&fire=E8A317&currStreakLabel=6FE9FF&sideLabels=9AA6C4&currStreakNum=E7ECF6&sideNums=E7ECF6&dates=9AA6C4" alt="Sequencia de commits no GitHub" />
 </div>
 
 ## Contato
