@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 200" width="830" height="200" role="img" aria-label="Banner pixelado de um heroi blindado voando pelo espaco">
+  <defs>
+    <linearGradient id="ceu" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1026"/>
+      <stop offset="0.55" stop-color="#0A0E20"/>
+      <stop offset="1" stop-color="#05070F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.72" cy="0.45" r="0.5">
+      <stop offset="0" stop-color="#2A3A8C" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#1A2050" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#05070F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="830" height="200" fill="url(#ceu)"/>
+  <rect width="830" height="200" fill="url(#glow)"/>
+
+  <!-- estrelas -->
+  <g fill="#FFFFFF">
+    <rect x="40" y="30" width="2" height="2" opacity="0.8"/>
+    <rect x="130" y="25" width="2" height="2" opacity="0.6"/>
+    <rect x="180" y="90" width="2" height="2" opacity="0.7"/>
+    <rect x="70" y="120" width="2" height="2" opacity="0.5"/>
+    <rect x="210" y="50" width="2" height="2" opacity="0.8"/>
+    <rect x="250" y="110" width="2" height="2" opacity="0.6"/>
+    <rect x="120" y="180" width="2" height="2" opacity="0.5"/>
+    <rect x="30" y="90" width="2" height="2" opacity="0.7"/>
+    <rect x="200" y="170" width="2" height="2" opacity="0.5"/>
+    <rect x="360" y="140" width="2" height="2" opacity="0.6"/>
+    <rect x="80" y="160" width="2" height="2" opacity="0.6"/>
+    <rect x="280" y="75" width="2" height="2" opacity="0.7"/>
+    <rect x="230" y="20" width="2" height="2" opacity="0.5"/>
+    <rect x="460" y="150" width="2" height="2" opacity="0.6"/>
+    <rect x="520" y="120" width="2" height="2" opacity="0.5"/>
+    <rect x="740" y="90" width="2" height="2" opacity="0.8"/>
+    <rect x="770" y="150" width="2" height="2" opacity="0.6"/>
+    <rect x="800" y="60" width="2" height="2" opacity="0.7"/>
+    <rect x="680" y="160" width="2" height="2" opacity="0.5"/>
+    <rect x="720" y="130" width="2" height="2" opacity="0.6"/>
+    <rect x="660" y="40" width="2" height="2" opacity="0.6"/>
+    <rect x="810" y="110" width="2" height="2" opacity="0.5"/>
+    <rect x="560" y="55" width="2" height="2" opacity="0.6"/>
+  </g>
+  <g>
+    <rect x="90" y="60" width="3" height="3" fill="#9FD8FF" opacity="0.9"/>
+    <rect x="300" y="35" width="3" height="3" fill="#F2C14E" opacity="0.9"/>
+    <rect x="400" y="110" width="3" height="3" fill="#9FD8FF" opacity="0.8"/>
+    <rect x="700" y="40" width="3" height="3" fill="#F2C14E" opacity="0.9"/>
+    <rect x="150" y="150" width="3" height="3" fill="#9FD8FF" opacity="0.8"/>
+    <rect x="620" y="170" width="3" height="3" fill="#9FD8FF" opacity="0.7"/>
+  </g>
+
+  <!-- rastro dos propulsores (voando para cima e a direita) -->
+  <g>
+    <rect x="600" y="132" width="8" height="8" fill="#FFE9A0" opacity="0.95"/>
+    <rect x="632" y="132" width="8" height="8" fill="#FFE9A0" opacity="0.95"/>
+    <rect x="590" y="140" width="8" height="8" fill="#FFCB5A" opacity="0.9"/>
+    <rect x="622" y="140" width="8" height="8" fill="#FFCB5A" opacity="0.9"/>
+    <rect x="578" y="148" width="7" height="7" fill="#FFAE3C" opacity="0.85"/>
+    <rect x="610" y="148" width="7" height="7" fill="#FFAE3C" opacity="0.85"/>
+    <rect x="565" y="156" width="7" height="7" fill="#FF8E33" opacity="0.8"/>
+    <rect x="596" y="156" width="7" height="7" fill="#FF8E33" opacity="0.8"/>
+    <rect x="551" y="164" width="6" height="6" fill="#FF7A2C" opacity="0.7"/>
+    <rect x="582" y="164" width="6" height="6" fill="#FF7A2C" opacity="0.7"/>
+    <rect x="536" y="172" width="6" height="6" fill="#F26520" opacity="0.55"/>
+    <rect x="568" y="172" width="6" height="6" fill="#F26520" opacity="0.55"/>
+    <rect x="520" y="179" width="5" height="5" fill="#E05010" opacity="0.4"/>
+    <rect x="552" y="179" width="5" height="5" fill="#E05010" opacity="0.4"/>
+    <rect x="503" y="185" width="4" height="4" fill="#D04000" opacity="0.3"/>
+    <rect x="536" y="185" width="4" height="4" fill="#D04000" opacity="0.3"/>
+  </g>
+
+  <!-- heroi blindado (pixel art) origem col=600 row=52, celula 8px -->
+  <g>
+    <!-- capacete dourado -->
+    <rect x="616" y="52" width="8" height="8" fill="#E8A317"/>
+    <rect x="624" y="52" width="8" height="8" fill="#F2C14E"/>
+    <rect x="632" y="52" width="8" height="8" fill="#E8A317"/>
+    <rect x="608" y="60" width="8" height="8" fill="#E8A317"/>
+    <rect x="616" y="60" width="8" height="8" fill="#F2C14E"/>
+    <rect x="624" y="60" width="8" height="8" fill="#F2C14E"/>
+    <rect x="632" y="60" width="8" height="8" fill="#F2C14E"/>
+    <rect x="640" y="60" width="8" height="8" fill="#E8A317"/>
+    <rect x="608" y="68" width="8" height="8" fill="#A9791C"/>
+    <!-- olhos ciano -->
+    <rect x="616" y="68" width="8" height="8" fill="#6FE9FF"/>
+    <rect x="624" y="68" width="8" height="8" fill="#A9791C"/>
+    <rect x="632" y="68" width="8" height="8" fill="#6FE9FF"/>
+    <rect x="640" y="68" width="8" height="8" fill="#A9791C"/>
+    <!-- ombros vermelhos -->
+    <rect x="608" y="76" width="8" height="8" fill="#C0392B"/>
+    <rect x="616" y="76" width="8" height="8" fill="#E24B3A"/>
+    <rect x="624" y="76" width="8" height="8" fill="#C0392B"/>
+    <rect x="632" y="76" width="8" height="8" fill="#E24B3A"/>
+    <rect x="640" y="76" width="8" height="8" fill="#C0392B"/>
+    <!-- peito + reator -->
+    <rect x="600" y="84" width="8" height="8" fill="#C0392B"/>
+    <rect x="608" y="84" width="8" height="8" fill="#C0392B"/>
+    <rect x="616" y="84" width="8" height="8" fill="#6FE9FF"/>
+    <rect x="624" y="84" width="8" height="8" fill="#FFFFFF"/>
+    <rect x="632" y="84" width="8" height="8" fill="#6FE9FF"/>
+    <rect x="640" y="84" width="8" height="8" fill="#C0392B"/>
+    <rect x="648" y="84" width="8" height="8" fill="#C0392B"/>
+    <!-- bracos + torso -->
+    <rect x="600" y="92" width="8" height="8" fill="#8E2820"/>
+    <rect x="608" y="92" width="8" height="8" fill="#C0392B"/>
+    <rect x="616" y="92" width="8" height="8" fill="#C0392B"/>
+    <rect x="624" y="92" width="8" height="8" fill="#6FE9FF"/>
+    <rect x="632" y="92" width="8" height="8" fill="#C0392B"/>
+    <rect x="640" y="92" width="8" height="8" fill="#C0392B"/>
+    <rect x="648" y="92" width="8" height="8" fill="#8E2820"/>
+    <!-- repulsores das maos -->
+    <rect x="600" y="100" width="8" height="8" fill="#6FE9FF" opacity="0.9"/>
+    <rect x="648" y="100" width="8" height="8" fill="#6FE9FF" opacity="0.9"/>
+    <rect x="616" y="100" width="8" height="8" fill="#C0392B"/>
+    <rect x="624" y="100" width="8" height="8" fill="#E24B3A"/>
+    <rect x="632" y="100" width="8" height="8" fill="#C0392B"/>
+    <!-- quadril -->
+    <rect x="616" y="108" width="8" height="8" fill="#C0392B"/>
+    <rect x="624" y="108" width="8" height="8" fill="#C0392B"/>
+    <rect x="632" y="108" width="8" height="8" fill="#C0392B"/>
+    <!-- pernas -->
+    <rect x="608" y="116" width="8" height="8" fill="#C0392B"/>
+    <rect x="616" y="116" width="8" height="8" fill="#8E2820"/>
+    <rect x="632" y="116" width="8" height="8" fill="#8E2820"/>
+    <rect x="640" y="116" width="8" height="8" fill="#C0392B"/>
+    <rect x="608" y="124" width="8" height="8" fill="#A9791C"/>
+    <rect x="640" y="124" width="8" height="8" fill="#A9791C"/>
+  </g>
+</svg>
