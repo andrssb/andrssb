@@ -10,7 +10,7 @@
 
 Olá, meu nome é **Andres Barbosa**.
 
-Estou em transição de carreira para a tecnologia, com background em vendas — o que me deu visão de negócio, comunicação e foco em resolver problemas reais. Agora aplico isso construindo software.
+Estou em transição de carreira para a tecnologia, com background em vendas. O que me deu visão de negócio, comunicação e foco em resolver problemas reais. Agora aplico isso construindo software.
 
 **Foco atual:** desenvolvimento full-stack. Construo APIs com Python/FastAPI, modelo bancos de dados e crio interfaces web — e venho expandindo para **Java (Spring Boot)** no backend e **Flutter** no cliente. Gosto de escrever código testado e bem organizado.
 
