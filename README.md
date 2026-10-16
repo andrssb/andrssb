@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=1F4FE0&center=true&vCenter=true&width=640&lines=Dev+full+stack+%26+an%C3%A1lise+de+dados;SQL%2C+Python%2C+Java+e+Node.js" alt="Dev full stack e análise de dados" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=1F4FE0&center=true&vCenter=true&width=640&lines=Software+Engineer;Java%2C+Node.js%2C+React%2C+Python+e+SQL" alt="Software Engineer" />
 </p>
 
 <p align="center">
@@ -8,11 +8,11 @@
 
 ## Sobre mim
 
-Olá, meu nome é **Andres Barbosa**, desenvolvedor full stack em Belo Horizonte.
+Sou **Andres Barbosa**, Software Engineer em Belo Horizonte. Construo sistemas de ponta a ponta: APIs em Java com Spring Boot, Node.js e Python, front-end em React e TypeScript, dados em PostgreSQL e Redis, e deploy com Docker, Vercel e Cloudflare Workers.
 
-Passei 4 anos em pré-vendas B2B em empresas de tecnologia e SaaS, e foi ali que aprendi a começar pelo problema do negócio. Hoje construo sistemas, APIs e análises de dados que resolvem esse problema.
+Também trabalho com dados: modelagem dimensional, carga incremental e consultas analíticas em SQL, além de coleta e automação com Python e Playwright.
 
-**Formação:** Análise e Desenvolvimento de Sistemas (Descomplica, concluído em 2026), graduação em Análise de Dados (Anhanguera, em andamento) e Engenharia de Dados (Indicium).
+Sou formado em Análise e Desenvolvimento de Sistemas pela Descomplica (2026), curso Análise de Dados na Anhanguera e fiz o curso de Engenharia de Dados da Indicium.
 
 ## Tecnologias
 
@@ -35,7 +35,9 @@ Passei 4 anos em pré-vendas B2B em empresas de tecnologia e SaaS, e foi ali que
 
 **[Armazém Analítico](https://github.com/andrssb/armazem-analitico)** *(em andamento)*: data warehouse de vendas em modelo dimensional, com carga incremental, tabelas particionadas e visões materializadas para consultas analíticas em grande volume. `PostgreSQL`, `SQL`, `Python`, `dbt`.
 
-**[Limo](https://limoapp.com.br/)**: plataforma B2B de prospecção que encontra empresas na base aberta da Receita Federal, enriquece contatos e leva os leads para o CRM, com extensão para Chrome. `TypeScript`, `Node.js`, `React`, `PostgreSQL`.
+**[Raio-X do Delivery](https://andrssb.github.io/dados-restaurantes/)**: análise de 5.016 restaurantes de delivery nas 27 capitais, com gráficos em SVG puro a partir de dados agregados. `Python`, `SQL`, `JavaScript`.
+
+**[Rumo ao Altar](https://rumo-ao-altar.vercel.app/)**: jogo de plataforma personalizado para casamentos, em que a história do casal vira fases e os convidados disputam um ranking. `JavaScript`, `Canvas`, `Vercel Functions`, `Redis`.
 
 **[Minecraft Server Status](https://github.com/andrssb/minecraft-server-status)**: painel que consulta qualquer servidor de Minecraft em tempo real (jogadores, versão, MOTD, ping) pelo protocolo Server List Ping. `Python`, `FastAPI`.
 
@@ -46,6 +48,6 @@ Veja todos no **[portfólio](https://andrssb.github.io)**.
 ## Contato
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1F4FE0?style=for-the-badge&logo=githubpages&logoColor=white)](https://andrssb.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-s-barbosa-298645439)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-barbosa-496088406)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531982775122)
 [![Email](https://img.shields.io/badge/andressalessb@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andressalessb@gmail.com)
