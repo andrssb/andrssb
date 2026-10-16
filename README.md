@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="assets/hero-banner.svg" alt="Banner pixelado de um heroi blindado voando pelo espaco" width="100%" />
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=1F4FE0&center=true&vCenter=true&width=640&lines=Dev+full+stack+%26+an%C3%A1lise+de+dados;SQL%2C+Python%2C+Java+e+Node.js;Do+back-end+ao+dado+que+vira+decis%C3%A3o" alt="Dev full stack e análise de dados" />
 </p>
