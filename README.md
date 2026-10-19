@@ -31,17 +31,13 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Descomplica (2026), c
 
 ## Projetos
 
+**[Caça Vagas](https://caca-vagas.pages.dev)** *(no ar)*: vagas de TI de Gupy, Sólides, Programathor e InfoJobs num lugar só, atualizadas todo dia. Mais de 1.500 vagas com filtro por nível, modalidade, estado e contrato, nota de encaixe pelas tecnologias da pessoa e conta opcional para salvar candidaturas. [Código](https://github.com/andrssb/caca-vagas). `Python`, `TypeScript`, `Cloudflare Pages`, `D1`, `GitHub Actions`.
+
 **[Caixa Forte API](https://github.com/andrssb/caixa-forte-api)** *(em andamento)*: API de pagamentos com livro-razão de dupla entrada, idempotência por chave de requisição, controle de concorrência no saldo e fila de eventos com reprocessamento. `Java`, `Spring Boot`, `PostgreSQL`, `Redis`, `Docker`.
 
 **[Armazém Analítico](https://github.com/andrssb/armazem-analitico)** *(em andamento)*: data warehouse de vendas em modelo dimensional, com carga incremental, tabelas particionadas e visões materializadas para consultas analíticas em grande volume. `PostgreSQL`, `SQL`, `Python`, `dbt`.
 
 **[Raio-X do Delivery](https://andrssb.github.io/dados-restaurantes/)**: análise de 5.016 restaurantes de delivery nas 27 capitais, com gráficos em SVG puro a partir de dados agregados. `Python`, `SQL`, `JavaScript`.
-
-**[Rumo ao Altar](https://rumo-ao-altar.vercel.app/)**: jogo de plataforma personalizado para casamentos, em que a história do casal vira fases e os convidados disputam um ranking. `JavaScript`, `Canvas`, `Vercel Functions`, `Redis`.
-
-**[Minecraft Server Status](https://github.com/andrssb/minecraft-server-status)**: painel que consulta qualquer servidor de Minecraft em tempo real (jogadores, versão, MOTD, ping) pelo protocolo Server List Ping. `Python`, `FastAPI`.
-
-**[Controle de Gastos](https://github.com/andrssb/controle-de-gastos)**: finanças pessoais com banco de dados em camadas, testes isolados e gráfico por categoria. `Python`, `FastAPI`, `SQLAlchemy`, `pytest`.
 
 Veja todos no **[portfólio](https://andrssb.github.io)**.
 
