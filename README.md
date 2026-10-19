@@ -37,8 +37,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Descomplica (2026), c
 
 **[Armazém Analítico](https://github.com/andrssb/armazem-analitico)** *(em andamento)*: data warehouse de vendas em modelo dimensional, com carga incremental, tabelas particionadas e visões materializadas para consultas analíticas em grande volume. `PostgreSQL`, `SQL`, `Python`, `dbt`.
 
-**[Raio-X do Delivery](https://andrssb.github.io/dados-restaurantes/)**: análise de 5.016 restaurantes de delivery nas 27 capitais, com gráficos em SVG puro a partir de dados agregados. `Python`, `SQL`, `JavaScript`.
-
 Veja todos no **[portfólio](https://andrssb.github.io)**.
 
 ## Contato
